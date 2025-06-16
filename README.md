@@ -7,6 +7,7 @@ A modern AI chatbot application built with React, TypeScript, and Vite. Features
 > 🧪 **Demo Credentials**  
 > ✉️ Email: `koyacaj781@calorpg.com`  
 > 🔑 Password: `Ashish@123`
+> ![Login Page](./src/readme/Login.png)
 
 - 🔐 User authentication
 - 💬 Real-time chat interface

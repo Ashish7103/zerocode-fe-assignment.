@@ -2,6 +2,12 @@
 
 A modern AI chatbot application built with React, TypeScript, and Vite. Features include:
 
+> 🟢 [Live Demo](https://chatbot-zerocode.netlify.app/)
+
+> 🧪 **Demo Credentials**  
+> ✉️ Email: `koyacaj781@calorpg.com`  
+> 🔑 Password: `Ashish@123`
+
 - 🔐 User authentication
 - 💬 Real-time chat interface
 - 🎙️ Voice input support
@@ -59,5 +65,3 @@ A modern AI chatbot application built with React, TypeScript, and Vite. Features
 - Smooth animations
 - Error handling
 - Loading states
-
-## Project Structure

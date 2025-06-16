@@ -65,5 +65,3 @@ A modern AI chatbot application built with React, TypeScript, and Vite. Features
 - Smooth animations
 - Error handling
 - Loading states
-
-## Project Structure
